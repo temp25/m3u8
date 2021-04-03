@@ -11,11 +11,11 @@ builds:
     goos:
       - linux
       - windows
-      - android
     goarch:
       - amd64
       - arm64
       - 386
+      - arm
 #    targets:
 #      - linux_amd64
 #      - darwin_amd64
