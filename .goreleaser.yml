@@ -38,6 +38,8 @@ archives:
     format_overrides:
       - goos: windows
         format: zip
+      - goos: linux
+        format: zip
 
     # Additional files/template/globs you want to add to the archive.
     files:
